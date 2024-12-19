@@ -1,4 +1,4 @@
-# Note: Website Is Under Development
+# Note: The website is currently under development 
 
 # ScientistsHub: A Science and Technology Articles
 
