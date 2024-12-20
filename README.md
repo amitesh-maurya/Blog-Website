@@ -2,6 +2,8 @@
 ## Demo
 Explore the live website here [**Click**](https://amiteshmaurya9.github.io/Blog-Website/)
 to see the portfolio in action!
+![Website Screenshot](Screenshot-image.jpeg) <!-- For local images -->
+
 
 # ScientistsHub: A Science and Technology Articles
 
@@ -21,9 +23,12 @@ ScientistsHub is an online platform that provides accessible, up-to-date informa
 - **Styling**: Styled Components, CSS Flexbox, Grid Layout
 - **Routing**: React Router(for upcoming user accounts and dynamic content)
 - **Future Backend**: Node.js, Express.js (for upcoming user accounts and dynamic content)
+- 
 
 ## Setup Instructions
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/amiteshmaurya9/Blog-wedsite.git
+
+   
