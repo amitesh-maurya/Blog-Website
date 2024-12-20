@@ -1,4 +1,7 @@
 # Note: The website is currently under development 
+## Demo
+Explore the live website here [**Click**](https://amiteshmaurya9.github.io/Blog-Website/)
+to see the portfolio in action!
 
 # ScientistsHub: A Science and Technology Articles
 
