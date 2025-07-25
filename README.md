@@ -29,6 +29,6 @@ ScientistsHub is an online platform that provides accessible, up-to-date informa
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/amiteshmaurya9/Blog-wedsite.git
+   git clone https://github.com/amitesh-maurya/Blog-wedsite.git
 
    
